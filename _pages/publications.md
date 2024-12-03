@@ -66,7 +66,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - **Ding Y**, Sun T.  
   _Copula Models and Diagnostics for Multivariate Interval-Censored Data._  
-  In: Sun J, Chen D-G, editors. 
+  In: Sun J, Chen D-G, editors.  
   **Emerging Topics in Modeling Interval-Censored Survival Data**. p141–165. New York: Springer.
 
 - Wang X, Xu Z, Zhou X, Zhang Y, Huang H, **Ding Y**, Duerr RH, Chen W.  
