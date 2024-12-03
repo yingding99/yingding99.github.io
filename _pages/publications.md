@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=g1oszqIAAAAJ).
 
 ## Selected Publications
@@ -18,12 +16,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   **Nature Communications** 15, 5562.  
   [https://doi.org/10.1038/s41467-024-49448-x](https://doi.org/10.1038/s41467-024-49448-x)
 
-- Liu J, Bo N, Forno E, **Ding Y***.  
+- Liu J, Bo N, Forno E, **Ding Y**.  
   _Predicting Pediatric Asthma Severe Outcomes using Machine Learning Methods for EHR Data with Repeated Clinic Visits._  
   **Journal of Statistical Research** 58(1): 131-149.  
   [https://doi.org/10.3329/jsr.v58i1.75419](https://doi.org/10.3329/jsr.v58i1.75419)
 
-- Bo N, Wei Y, Zeng L, Kang C, **Ding Y***.  
+- Bo N, Wei Y, Zeng L, Kang C, **Ding Y**.  
   _A Meta-Learner Framework to Estimate Individualized Treatment Effects for Survival Outcomes_  
   (**An earlier version won the 2022 JSM LiDS section student paper award**).  
   **Journal of Data Science**.  
@@ -59,14 +57,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### 2022
 
-- Sun T, Cheng Y, **Ding Y***.  
+- Sun T, Cheng Y, **Ding Y**.  
   _An Information Ratio based Goodness-of-fit Test for Copula Models on Censored Data._  
   **Biometrics.**  
   [https://doi.org/10.1111/biom.13807](https://doi.org/10.1111/biom.13807)
 
-- **Ding Y***, Sun T.  
+- **Ding Y**, Sun T.  
   _Copula Models and Diagnostics for Multivariate Interval-Censored Data._  
-  In: Sun J, Chen D-G, editors. **Emerging Topics in Modeling Interval-Censored Survival Data**. p141–165. New York: Springer.
+  In: Sun J, Chen D-G, editors. 
+  **Emerging Topics in Modeling Interval-Censored Survival Data**. p141–165. New York: Springer.
 
 - Wang X, Xu Z, Zhou X, Zhang Y, Huang H, **Ding Y**, Duerr RH, Chen W.  
   _SECANT: a biology-guided semi-supervised method for clustering, classification, and annotation of single-cell multi-omics._  
