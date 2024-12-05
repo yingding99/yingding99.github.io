@@ -1,3 +1,23 @@
+# Information update guideline
+
+You can always easily update the contents by GitHub official editor. Most of the contents are in Markdown format ([Quickstart](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).  
+
+Update **Homepage**: [link](https://github.com/yingding99/yingding99.github.io/blob/master/_pages/about.md)
+
+Update **Members**: [link](https://github.com/yingding99/yingding99.github.io/blob/master/_pages/members.md)
+
+Update **Publications**: [link](https://github.com/yingding99/yingding99.github.io/blob/master/_pages/publications.md)
+
+Update **Teaching**: [link](https://github.com/yingding99/yingding99.github.io/blob/master/_pages/teaching.md)
+
+Update **Awards & Grants**: [link](https://github.com/yingding99/yingding99.github.io/blob/master/_pages/awards.md)
+
+
+*You might not need the information below, which is the original README doc of this template. It’s here just in case.*  
+
+---
+---
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
