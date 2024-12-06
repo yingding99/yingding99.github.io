@@ -9,11 +9,11 @@ author_profile: true
 
 ## Current Members
 
-Na Bo, PhD in Biostatistics.  
-Zhiyu Sui, PhD in Biostatistics.  
-Lang Zeng, PhD in Biostatistics.  
-Jiaqian Liu, PhD in Biostatistics.  
-Haoling Wang, MS in Biostatistics.  
+Na Bo, PhD in Biostatistics (2020 - present).    
+Zhiyu Sui, PhD in Biostatistics (2020 - present).    
+Lang Zeng, PhD in Biostatistics (2021 - present).    
+Jiaqian Liu, PhD in Biostatistics (2023 - present).   
+Haoling Wang, MS in Biostatistics (2024 - present).    
 
 ## Alumni
 
